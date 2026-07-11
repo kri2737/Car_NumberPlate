@@ -10,4 +10,4 @@ Requirements:
 Run the program:
     python main.py
 
-It will detect and read the number from 'car.jpg' using EasyOCR.
+It will detect and read the number from ' car.jpg ' using EasyOCR.
