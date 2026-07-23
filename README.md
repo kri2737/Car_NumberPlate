@@ -8,6 +8,6 @@ Requirements:
     pip install -r requirements.txt
 
 Run the program:
-    python main.py
+    python main.py 
 
 It will detect and read the number from ' car.jpg ' using EasyOCR.
