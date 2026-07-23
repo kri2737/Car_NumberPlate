@@ -1,5 +1,5 @@
 
-Indian Number Plate Detection using EasyOCR
+Indian Number Plate Detection using EasyOCR 
 ------------------------------------------- 
 
 Requirements: 
