@@ -1,6 +1,6 @@
 
 Indian Number Plate Detection using EasyOCR
--------------------------------------------
+------------------------------------------- 
 
 Requirements: 
 - Python 3.7+
