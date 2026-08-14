@@ -7,7 +7,7 @@ Indian Number Plate Detection using EasyOCR
 - Install dependencies:
     pip install -r requirements.txt
 
-Run the program:
+Run the program : 
     python main.py 
 
 It will detect and read the number from ' car.jpg ' using EasyOCR.
